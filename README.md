@@ -8,6 +8,9 @@
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
+    <a href="https://github.com/kanade012">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
     <a href="mailto:wkddudgk4869@gachon.ac.kr">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
@@ -17,4 +20,7 @@
     <a href="https://www.instagram.com/youngha_0107">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
+      <a href="https://www.linkedin.com/in/kanade012">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
