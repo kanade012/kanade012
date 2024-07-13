@@ -26,8 +26,7 @@
 </div>
 
 
-    
-🎨 Design Tools
+<h2>🎨 Design Tools</h2>    
 <div>
     <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=Adobe&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
