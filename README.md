@@ -4,7 +4,7 @@
 
 
 <div align="left">
-## 🛠 Programming Languages & Frameworks
+<h1>🛠 Programming Languages & Frameworks</h1>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
@@ -30,5 +30,5 @@
 🎨 Design Tools
 <div>
     <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=Adobe&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
 </div>
