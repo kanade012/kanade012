@@ -2,8 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=40&duration=3000&color=6FA8DC&center=false&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hello+I'm+YoungHa+Chang+in+AIIA🐬)](https://git.io/typing-svg)
 
-## My activities at a glance
+
+<!--## My activities at a glance
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanade012&count_private=true&show_icons=true)](https://github.com/kanade012)
+-->
 
 <div align="left">
 <h2>💻I can use this💻</h2>
