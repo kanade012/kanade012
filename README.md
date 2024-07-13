@@ -4,7 +4,7 @@
 
 
 <div align="left">
-<h3>🛠 Programming Languages & Frameworks</h3>
+<h2>🛠 Programming Languages & Frameworks</h2>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
