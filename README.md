@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
-## 📞 Contact 📞
+<h2> 📞 Contact 📞</h2>
 <div style="display:flex; flex-direction:row;">
     <a href="https://github.com/kanade012">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
