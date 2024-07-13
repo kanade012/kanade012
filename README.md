@@ -15,6 +15,11 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=blue">
 
 </div>
+<h3>Version Control</h3>
+    <div>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+    </div>
 <h2> 📞 Contact 📞</h2>
 <div style="display:flex; flex-direction:row;">
     <a href="https://github.com/kanade012">
