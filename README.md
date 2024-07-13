@@ -20,7 +20,7 @@
     <a href="https://www.instagram.com/youngha_0107">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
-      <a href="https://www.linkedin.com/in/kanade012">
+      <a href="https://www.linkedin.com/in/ClaudeChang">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
