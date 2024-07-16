@@ -30,7 +30,7 @@
     <a href="https://github.com/kanade012">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-    <a href="mailto:wkddudgk4869@gachon.ac.kr">
+    <a href="mailto:claude012@aiia-gcu.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
     <a href="https://open.kakao.com/me/ClaudeChang">
