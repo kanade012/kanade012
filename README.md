@@ -1,11 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=40&duration=3000&color=6FA8DC&center=false&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hello+I'm+YoungHa+Chang+in+AIIA🐬)](https://git.io/typing-svg)
-
-
 <!--## My activities at a glance
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanade012&count_private=true&show_icons=true)](https://github.com/kanade012)
--->
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanade012&count_private=true&show_icons=true)](https://github.com/kanade012)-->
+
+<div align="center">
+    <h3>
+        Hi👋, I'm 
+        <a href="https://youngha.buzz"> YoungHa Chang </a>
+    </h3>
+    <img align="center" src="https://github.com/user-attachments/assets/e2970a6c-6786-441a-8d14-b3d5dedb9abb">
+</div>
+
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/kanade012">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanade012&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=radical&hide=css,html" />
+  </a>
+</p>
 
 <div align="left">
 <h2>💻I can use this💻</h2>
@@ -40,10 +49,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
-
 <h2>🎨 Design Tools</h2>    
 <div>
     <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=Adobe&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
 </div>
+
+<h3>I'm also interested in contributing open source</h3>
+
+[![An image of @kanade012's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kanade012)](https://holopin.io/@kanade012)
