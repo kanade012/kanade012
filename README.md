@@ -12,7 +12,7 @@
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/kanade012">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanade012&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=radical&hide=css,html" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanade012&layout=compact&show_icons=false&show_owner=false&hide_title=true&theme=radical" />
   </a>
 </p>
 
