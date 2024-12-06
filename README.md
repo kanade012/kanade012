@@ -1,20 +1,13 @@
-<!--## My activities at a glance
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanade012&count_private=true&show_icons=true)](https://github.com/kanade012)-->
-
 <div align="center">
     <h3>
         Hi👋, I'm 
         <a href="https://youngha.buzz"> YoungHa Chang </a>
     </h3>
-    <img align="center" src="https://github.com/user-attachments/assets/e2970a6c-6786-441a-8d14-b3d5dedb9abb">
-</div>
-
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
-  <a href="https://github.com/kanade012">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanade012&layout=compact&theme=tokyonight&hide_title=true&" />
+    <img align="center" src="https://github.com/user-attachments/assets/e2970a6c-6786-441a-8d14-b3d5dedb9abb", width=200px>
+    <a href="https://github.com/kanade012">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanade012&layout=compact&theme=tokyonight&hide=c" />
   </a>
-</p>
+</div>
 
 <div align="left">
 <h2>💻I can use this💻</h2>
